@@ -10,6 +10,7 @@ public class BaseEntity {
     private String mId;
     @SerializedName("name")
     private String mName;
+    private String mTest;
 
     public BaseEntity() {
     }
